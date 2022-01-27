@@ -14,7 +14,7 @@
       "https://*.google.com/*",
       "https://github.com/*",
       "https://*.zoom.us/*",
-      "https://zoom.us/*",
+      "https://zoom.us/*"
     ]
   }]
 
