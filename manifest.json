@@ -12,7 +12,9 @@
       "https://notion.so/*",
       "https://www.notion.so/*",
       "https://*.google.com/*",
-      "https://github.com/*"
+      "https://github.com/*",
+      "https://*.zoom.us/*",
+      "https://zoom.us/*",
     ]
   }]
 
